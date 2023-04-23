@@ -1,0 +1,75 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+thead {
+    line-height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: brown;
+    font-weight: bolder;
+
+}
+
+
+.heading {
+    line-height: 100px;
+    box-shadow: 10px, 40px;
+    text-align: center;
+    background-color: rgb(234, 185, 27);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+tbody {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(247, 247, 247);
+    background-color: black;
+}
+
+th {
+    
+    padding-bottom: 20px;
+    padding: 15px;
+
+}
+
+td {
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
+thead {
+    color: aliceblue;
+    background-color: brown;
+    font-weight: bolder;
+
+}
+
+.tabledata
+{
+    text-align: start;
+    
+    padding-left: 8px;
+
+}
+div table
+{
+    margin-top: 20px;
+    width: auto;
+}
+tr td
+{
+    padding: 10px;
+}
+
+
+
